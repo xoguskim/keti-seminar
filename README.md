@@ -1,4 +1,7 @@
 # keti-seminar
+
+Version: V1.0-20180115-R01
+
 asdfasdjf
 asfasd
 
